@@ -43,16 +43,14 @@ drawing, graphing, or coding software. It’s up to you\!
 # Any questions?
 
 For any questions please reach out directly to the facilitators through
-[email](mailto:graphics.principles@gmail.com) or the [discussion
-board](https://github.com/GraphicsPrinciples/webinar/discussions).
-
+[email](mailto:graphics.principles@gmail.com).
 # Workshop materials
 
 Here are a list of the webinar materials:
 
   - [Slides]() - to be added
   - Shortcut to the [purpose
-    worksheet](https://github.com/GraphicsPrinciples/webinar/blob/main/Purpose_Worksheet.docx)
+    worksheet](https://github.com/GraphicsPrinciples/IBC2022/blob/main/EVC_Purpose_Worksheet.docx)  
   - The [IBC2022 conference homepage](https://www.ibc2022.org/home)
 
 # References
