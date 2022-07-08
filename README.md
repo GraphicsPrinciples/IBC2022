@@ -1,7 +1,6 @@
-# IBC2022
+# Effective Visual Communication for Quantitative Scientists - materials and resources
 
-EVC IBC2022 materials and resources
-================
+# IBC2022 STATISTICS IN PRACTICE SESSION
 
 This repository contains materials for hands on examples for the
 Effective Visual Communication Webinar for the [IBC2022](https://www.ibc2022.org/home) [showcase statistics in practice session](https://www.ibc2022.org/events/showcase).
