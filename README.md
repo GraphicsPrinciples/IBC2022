@@ -1,6 +1,6 @@
-# Effective Visual Communication for Quantitative Scientists - materials and resources
+# Effective Visual Communication for Quantitative Scientists 
 
-# IBC2022 STATISTICS IN PRACTICE SESSION
+## IBC2022 Statistics in Practice Session
 
 This repository contains materials for hands on examples for the
 Effective Visual Communication Webinar for the [IBC2022](https://www.ibc2022.org/home) [showcase statistics in practice session](https://www.ibc2022.org/events/showcase).
@@ -14,7 +14,7 @@ The site supports a [two-part workshop](https://www.ibc2022.org/events/ibc2022sc
 Please also feel free to also use the materials on your next project.
 Any feedback or comments on the materials are welcome\!
 
-# Hands on Examples
+## Hands on Examples
 
 For the assignment, **pick one** of the options below:
 
@@ -24,7 +24,7 @@ For the assignment, **pick one** of the options below:
     COVID-19](Missed_Doses_Due_to_COVID/)
   - **Option 3:** Bring your own example
 
-# Assignment:
+## Assignment:
 
   - **Step 1 (have a clear purpose):** Complete the Purpose Worksheet
     for the example you choose. Partially completed purpose worksheets
@@ -40,7 +40,7 @@ For the assignment, **pick one** of the options below:
 **Note:** For steps 2 and 3, you may choose to use pen and paper, or a
 drawing, graphing, or coding software. It’s up to you\!
 
-# Any questions?
+## Any questions?
 
 For any questions please reach out directly to the facilitators through
 [email](mailto:graphics.principles@gmail.com).
