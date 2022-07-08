@@ -6,7 +6,11 @@ EVC IBC2022 materials and resources
 This repository contains materials for hands on examples for the
 Effective Visual Communication Webinar for the [IBC2022](https://www.ibc2022.org/home) [showcase statistics in practice session](https://www.ibc2022.org/events/showcase).
 
-The site supports a two-part workshop run on Monday 11th July, 2022.
+The site supports a [two-part workshop](https://www.ibc2022.org/events/ibc2022schedule) run on Monday 11th July, 2022.
+
+ - Part 1 14.00-16.00
+ - Part 2 16.30-18.00
+
 
 Please also feel free to also use the materials on your next project.
 Any feedback or comments on the materials are welcome\!
