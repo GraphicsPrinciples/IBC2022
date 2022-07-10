@@ -18,6 +18,8 @@ Reference for additional background, purpose and key messages:
 
 Complete the Purpose Worksheet (separate handout). It is already half filled.
 
+It is available here as a [pdf](https://github.com/GraphicsPrinciples/IBC2022/blob/main/Capmatinib_purpose_worksheet.pdf) or [word](https://github.com/GraphicsPrinciples/IBC2022/blob/main/Capmatinib_purpose_worksheet.docx) file. 
+
 ## Task 2:
 
 See the main visualization of the study results. Improve it or create your own to display the key message(s).
