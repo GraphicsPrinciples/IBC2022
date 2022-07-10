@@ -16,6 +16,8 @@ Any feedback or comments on the materials are welcome\!
  
 ## Assignment:
 
+Apply the 3 principles of Effective Visualization to an example of your own.
+
 For the assignment bring and work on your own example completing the following steps. 
 
   - **Step 1 (have a clear purpose):** Complete the Purpose Worksheet
@@ -34,7 +36,7 @@ drawing, graphing, or coding software. It’s up to you\!
 
 ### Back up example - Capmatinib NSCLC MET mutations
 
-If you do not have an example you can work on the following [Capmatinib example](Capmatinib.md)
+Did you bring one? If not, can you think of one now? Otherwise, take a graph we provide ([Capmatinib example](Capmatinib.md)).
 
 ## Any questions?
 
