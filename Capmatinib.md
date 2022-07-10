@@ -29,4 +29,4 @@ See the main visualization of the study results. Improve it or create your own t
 
 # Handout
 
-This information is also available as a [handout]()
+This information is also available as a [handout](https://github.com/GraphicsPrinciples/IBC2022/blob/main/Capmatinib_purpose_worksheet.pdf)
