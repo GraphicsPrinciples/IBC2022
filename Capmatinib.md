@@ -25,3 +25,8 @@ It is available here as a [pdf](https://github.com/GraphicsPrinciples/IBC2022/bl
 See the main visualization of the study results. Improve it or create your own to display the key message(s).
 
 ![image](results.png) 
+
+
+# Handout
+
+This information is also available as a [handout]()
