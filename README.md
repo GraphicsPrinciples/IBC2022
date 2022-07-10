@@ -34,7 +34,7 @@ drawing, graphing, or coding software. It’s up to you\!
 
 ### Back up example - Capmatinib NSCLC MET mutations
 
-If you do not have an example you can work on the following [example](https://github.com/GraphicsPrinciples/webinar/tree/main/Capmatinib_NSCLC_MET_mutations)
+If you do not have an example you can work on the following [Capmatinib example](Capmatinib.md)
 
 ## Any questions?
 
