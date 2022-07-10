@@ -21,3 +21,5 @@ Complete the Purpose Worksheet (separate handout). It is already half filled.
 ## Task 2:
 
 See the main visualization of the study results. Improve it or create your own to display the key message(s).
+
+![Image]{results.png}
