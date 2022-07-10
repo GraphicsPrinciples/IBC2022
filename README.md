@@ -13,18 +13,10 @@ The site supports a [two-part workshop](https://www.ibc2022.org/events/ibc2022sc
 
 Please also feel free to also use the materials on your next project.
 Any feedback or comments on the materials are welcome\!
-
-## Hands on Examples
-
-For the assignment, **pick one** of the options below:
-
-  - **Option 1 (improve a graph):** [Capmatinib NSCLC MET
-    mutations](Capmatinib_NSCLC_MET_mutations/)
-  - **Option 2 (create a graph):** [Missed doses due to
-    COVID-19](Missed_Doses_Due_to_COVID/)
-  - **Option 3:** Bring your own example
-
+ 
 ## Assignment:
+
+For the assignment bring and work on your own example completing the following steps. 
 
   - **Step 1 (have a clear purpose):** Complete the Purpose Worksheet
     for the example you choose. Partially completed purpose worksheets
@@ -39,6 +31,10 @@ For the assignment, **pick one** of the options below:
 
 **Note:** For steps 2 and 3, you may choose to use pen and paper, or a
 drawing, graphing, or coding software. It’s up to you\!
+
+### Back up example - Capmatinib NSCLC MET mutations
+
+If you do not have an example you can work on the following [example](https://github.com/GraphicsPrinciples/webinar/tree/main/Capmatinib_NSCLC_MET_mutations)
 
 ## Any questions?
 
