@@ -62,7 +62,7 @@ Here is a list of the webinar materials:
 
 # More resources and references
 
-Here are a list of other useful resources and related initiatives.
+Here is a list of other useful resources and related initiatives.
 
 Graphical principles initiative:
 
