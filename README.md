@@ -46,7 +46,7 @@ For any questions please reach out directly to the facilitators through
 
 Here is a list of the webinar materials:
 
-  - [Slides]() - to be added
+  - [Slides](https://github.com/GraphicsPrinciples/IBC2022/blob/main/2022_IBC_Showcase_slides.pdf)
   - Shortcut to the [purpose
     worksheet](https://github.com/GraphicsPrinciples/IBC2022/blob/main/EVC_Purpose_Worksheet.docx)  
   - The [IBC2022 conference homepage](https://www.ibc2022.org/home)
