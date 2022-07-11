@@ -44,13 +44,14 @@ For any questions please reach out directly to the facilitators through
 [email](mailto:graphics.principles@gmail.com).
 # Workshop materials
 
-Here are a list of the webinar materials:
+Here is a list of the webinar materials:
 
   - [Slides]() - to be added
   - Shortcut to the [purpose
     worksheet](https://github.com/GraphicsPrinciples/IBC2022/blob/main/EVC_Purpose_Worksheet.docx)  
   - The [IBC2022 conference homepage](https://www.ibc2022.org/home)
-
+  - [Back-up example](Capmatinib.md) (if you do not have one of your own)
+  
 # References
 
   - [Cheat sheet and tutorial](https://graphicsprinciples.github.io/)
